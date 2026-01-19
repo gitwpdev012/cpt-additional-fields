@@ -86,7 +86,7 @@ function acf_settings_page_content() {
                             
                             ?>
                         </select>
-                        <p class="description">Choose which post type will get the 2 custom fields</p>
+                        <p class="description">Choose which post type will get the two custom fields</p>
                     </td>
                 </tr>
             </table>
